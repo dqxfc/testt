@@ -4,4 +4,5 @@ private string name;
 private String number;
 private String birthd;
 private String email;
+private Strint telephone;
 }
